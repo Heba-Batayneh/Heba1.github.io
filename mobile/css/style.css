@@ -23,7 +23,7 @@ section.banner .overlay {
 
 @font-face {
     font-family: ar-font;
-    src: url(fonts/Cairo-Regular.ttf);
+    src: url(../fonts/Cairo-Regular.ttf);
 }
 
 /* تعيين الخط الجديد كخط أساسي للصفحة وتحديد جهة الكتابة من اليمين إلى اليسار */
